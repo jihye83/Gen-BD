@@ -8,4 +8,4 @@
 
 ### ✔️ Tecnologias utilizadas
 
-- ``MySql``
+- ``MySQLWorkbench``
